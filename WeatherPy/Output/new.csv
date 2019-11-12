@@ -1,9 +1,10 @@
-Name,Temperature,lon
-Rovaniemi,268.15,25.72
-Tasiilaq,274.15,-37.64
-Kaitangata,283.71,169.85
-Palana,269.27,159.95
-Vaini,302.15,74.49
-Mataura,286.48,168.86
-Albany,272.73,-73.75
-Ushuaia,279.15,-68.31
+Name,Longitude,Latitude,Temperature,Humidity,Cloudiness,Wind
+Kapaa,-159.32,22.08,296.08,78,1,2.6
+Rikitea,-134.97,-23.12,295.46,82,100,5.83
+Hami,93.51,42.84,273.5,25,0,1.93
+Airai,125.41,-8.93,292.97,82,13,1.26
+Nha Trang,109.19,12.24,301.15,88,40,3.6
+Longyearbyen,15.63,78.22,273.15,98,90,4.6
+Xingyi,102.82,24.19,288.59,90,27,1.19
+Albany,-73.75,42.65,271.9,96,90,5.34
+Tortosa,0.52,40.81,286.26,44,1,5.1
